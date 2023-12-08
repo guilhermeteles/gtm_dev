@@ -1,0 +1,17 @@
+{
+  "name": "gtm_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "npx parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6"
+  }
+}
